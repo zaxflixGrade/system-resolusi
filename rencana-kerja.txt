@@ -4,3 +4,6 @@ Rencana Kerja
 - Membuat strategi bagus untuk TIM
 - Memebuat Sebuah System yang dapat menerima Informasi
   ^ Menggunakan program
+- Mempunyai sasaran yang logis
+- Membuat Robot Dengan System Pintar Cerdas
+  ^ System Pintar Program
