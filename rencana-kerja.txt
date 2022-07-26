@@ -3,3 +3,4 @@ Rencana Kerja
 - Membangun sebuah Perusahaan Besar 
 - Membuat strategi bagus untuk TIM
 - Mempunyai sasaran yang logis
+- Membuat Robot Dengan System Pintar Cerdas
