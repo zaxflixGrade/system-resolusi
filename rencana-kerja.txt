@@ -2,6 +2,8 @@ Rencana Kerja
 - Bekerja TIM Di Perusahaan Shoope atau Perusahaan Besar lainnya
 - Membangun sebuah Perusahaan Besar 
 - Membuat strategi bagus untuk TIM
+- Memebuat Sebuah System yang dapat menerima Informasi
+  ^ Menggunakan program
 - Mempunyai sasaran yang logis
 - Membuat Robot Dengan System Pintar Cerdas
   ^ System Pintar Program
